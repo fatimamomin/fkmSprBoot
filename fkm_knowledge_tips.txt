@@ -12,3 +12,5 @@ and code from src folder is compiled and war file created.
 and deployed locally.
 
 this manual work is done internally by spring
+
+sample change
