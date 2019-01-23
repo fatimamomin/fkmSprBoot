@@ -1,0 +1,14 @@
+to access application you need to  use
+
+http://localhost:8080/
+
+
+also when we do mvn spring-boot:run
+
+after mvn these are called targets.
+in maven plugins these targets are defined.
+with these targets tomcat runs auutomcaticaly
+and code from src folder is compiled and war file created.
+and deployed locally.
+
+this manual work is done internally by spring
